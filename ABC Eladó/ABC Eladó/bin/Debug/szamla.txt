@@ -1,0 +1,29 @@
+        SC.  ABC  SRL
+           Számla
+-------------------------------------
+Dátum és idő: 2014.5.30  20:30:10
+-------------------------------------
+
+Megvásárolt Termékek
+-------------------------------------
+6 X Libamáj Pástétom (Konzerv)
+          6 X 5,2 RON = 31,2 RON
+
+7 X Cuch Cuch (Száraztészta)
+          7 X 3,65 RON = 25,55 RON
+
+6 X Rizs (Vegyes)
+          6 X 4,75 RON = 28,5 RON
+
+3 X Gombás Pástétom (Konzerv)
+          3 X 2,67 RON = 8,01 RON
+
+7 X Zöldborsó (Konzerv)
+          7 X 4 RON = 28 RON
+
+-------------------------------------
+          Ár összesítve: 121,26 RON
+
+
+Köszönjük, hogy minket választott!
+      Várjuk máskor is! :)

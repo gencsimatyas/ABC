@@ -1,0 +1,18 @@
+D:\Atestat\ABC Raktár\ABC Raktár\bin\Debug\ABC Raktár.exe
+D:\Atestat\ABC Raktár\ABC Raktár\bin\Debug\ABC Raktár.pdb
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form1.resources
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Properties.Resources.resources
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC Raktár.exe
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC Raktár.pdb
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form2.resources
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form3.resources
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form4.resources
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form5.resources
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form6.resources
+D:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form7.resources
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form8.resources
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form9.resources
+d:\Atestat\ABC Raktár\ABC Raktár\obj\x86\Debug\ABC_Raktár.Form10.resources

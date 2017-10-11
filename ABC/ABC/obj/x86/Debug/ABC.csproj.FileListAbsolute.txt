@@ -1,0 +1,11 @@
+D:\Atestat\ABC\ABC\bin\Debug\ABC.exe
+D:\Atestat\ABC\ABC\bin\Debug\ABC.pdb
+D:\Atestat\ABC\ABC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Atestat\ABC\ABC\obj\x86\Debug\ABC.Form1.resources
+D:\Atestat\ABC\ABC\obj\x86\Debug\ABC.Properties.Resources.resources
+D:\Atestat\ABC\ABC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Atestat\ABC\ABC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Atestat\ABC\ABC\obj\x86\Debug\ABC.exe
+D:\Atestat\ABC\ABC\obj\x86\Debug\ABC.pdb
+d:\Atestat\ABC\ABC\obj\x86\Debug\ABC.Form2.resources
+d:\Atestat\ABC\ABC\obj\x86\Debug\ABC.Form3.resources
